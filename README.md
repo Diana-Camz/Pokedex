@@ -21,6 +21,7 @@ and run the project with
 ```
 
 ## Screenshots
-<img src='https://github.com/Diana-Camz/Pokedex/assets/89281129/c9040ebf-0545-47ea-b0f5-7b9f18d23545' width="280" height="600">
+
 <img src='https://github.com/Diana-Camz/Pokedex/assets/89281129/bad37e35-b1d4-4f74-a888-eab6fd90f275' width="280" height="600">
+<img src='https://github.com/Diana-Camz/Pokedex/assets/89281129/c9040ebf-0545-47ea-b0f5-7b9f18d23545' width="280" height="600">
 
